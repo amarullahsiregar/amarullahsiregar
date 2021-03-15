@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @amarullahsiregar
 - 👀 I’m interested in Internet of Things
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
 - 📫 email me on rahman.amarullah@gmail.com
