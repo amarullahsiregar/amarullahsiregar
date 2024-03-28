@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @amarullahsiregar
 - 👀 I’m interested in Internet of Things and Front-End Development
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript and React
 - 📫 email me on rahman.amarullah(at)gmail.com
